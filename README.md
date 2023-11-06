@@ -11,5 +11,4 @@ The Chronometer().isTheFinalCountDown() function should not open the YouTube app
 No.
 
 **note** :
-I used 'Google Translate' to translate the words above from Indonesian to English.
-so I hope you can understand it.
+I used 'Google Translate' to translate the words above from Indonesian to English, so I hope you can understand it.
